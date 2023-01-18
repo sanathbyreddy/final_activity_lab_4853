@@ -1,7 +1,7 @@
 FROM python:3.7.2-stretch
 
 # Set the working directory to /AppPython
-WORKDIR /end_project_4853
+WORKDIR /sanath_final_4853
 
 # Copy requirements.txt file in current folder into the container at /AppPython 
 ADD requirements.txt .
